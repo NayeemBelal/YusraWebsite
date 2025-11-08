@@ -3,8 +3,8 @@ import './SmsConsent.css';
 
 // Configuration - Update these for your brand
 const BRAND_NAME = "YUSRA INSTITUTE";
-const WHAT_USERS_RECEIVE = "updates, promotions, and service notifications";
-const FREQUENCY_TEXT = "Message frequency varies";
+const WHAT_USERS_RECEIVE = "order confirmations, order status updates, and customer support messages";
+const FREQUENCY_TEXT = "Message frequency varies based on order activity";
 
 function SmsConsent() {
   const [phone, setPhone] = useState('');

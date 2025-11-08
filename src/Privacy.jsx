@@ -27,13 +27,14 @@ function Privacy() {
               We may collect personal information that you voluntarily provide to us when you:
             </p>
             <ul>
-              <li>Opt in to receive SMS communications</li>
+              <li>Opt in to receive SMS communications for our ordering service</li>
+              <li>Place orders through our SMS ordering system</li>
               <li>Contact us for support or inquiries</li>
               <li>Use our services or website</li>
             </ul>
             <p>
-              This information may include your name, phone number, and any other information you choose 
-              to provide.
+              This information may include your name, phone number, delivery address, order details,
+              payment information, and any other information you choose to provide when placing orders.
             </p>
           </section>
 
@@ -41,22 +42,28 @@ function Privacy() {
             <h2>3. How We Use Your Information</h2>
             <p>We use the information we collect to:</p>
             <ul>
-              <li>Send you SMS messages about updates, promotions, and service notifications (with your consent)</li>
-              <li>Respond to your inquiries and provide customer support</li>
-              <li>Improve our services and user experience</li>
+              <li>Process and fulfill your food orders placed through our SMS ordering service</li>
+              <li>Send you order confirmations, order status updates, and delivery notifications (with your consent)</li>
+              <li>Provide customer support and respond to your inquiries</li>
+              <li>Improve our ordering system and user experience</li>
               <li>Comply with legal obligations</li>
             </ul>
           </section>
 
           <section>
-            <h2>4. SMS Communications</h2>
+            <h2>4. SMS Communications and Ordering</h2>
             <p>
-              When you opt in to receive SMS messages from us, we collect and store your phone number. 
-              We will use this number solely to send you the messages you have consented to receive.
+              When you opt in to receive SMS messages from us, we collect and store your phone number
+              to facilitate our automated ordering service. We will use this number to send you order
+              confirmations, order status updates, delivery notifications, and customer support messages
+              that you have consented to receive.
             </p>
             <p>
-              We do not share your phone number with third parties for their marketing purposes. You can 
-              opt out at any time by texting STOP to any message from us.
+              We do not share your phone number or order information with third parties for their marketing
+              purposes. Your information is only shared with service providers necessary to fulfill your
+              orders (such as delivery services) and our SMS service provider (Twilio). You can opt out at
+              any time by texting STOP to any message from us. Note that opting out will prevent you from
+              using our SMS ordering service.
             </p>
           </section>
 

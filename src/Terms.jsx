@@ -20,19 +20,27 @@ function Terms() {
           </section>
 
           <section>
-            <h2>2. SMS Communications</h2>
+            <h2>2. SMS Communications and Ordering Service</h2>
             <p>
-              By opting in to receive SMS messages from YUSRA INSTITUTE, you consent to receive text 
-              messages at the phone number you provided. Message frequency varies. Message and data rates 
-              may apply.
+              By opting in to receive SMS messages from YUSRA INSTITUTE, you consent to receive text
+              messages at the phone number you provided related to our automated ordering service. This includes
+              order confirmations, order status updates, delivery notifications, and customer support messages.
+              Message frequency varies based on your order activity. Message and data rates may apply.
             </p>
             <p>
-              You can cancel SMS messages at any time by replying STOP to any message from us. After you 
-              send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have 
-              been unsubscribed. After this, you will no longer receive SMS messages from us.
+              <strong>Ordering via SMS:</strong> When you place an order through our SMS service, you authorize
+              us to process your order and send you updates about your order status. You are responsible for
+              the accuracy of the information you provide, including menu items, delivery address, and payment details.
             </p>
             <p>
-              For help, text HELP to any message from us or contact us at +1 (203) 300-7233.
+              You can cancel SMS messages at any time by replying STOP to any message from us. After you
+              send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have
+              been unsubscribed. After this, you will no longer receive SMS messages from us. Note that
+              unsubscribing will prevent you from using our SMS ordering service.
+            </p>
+            <p>
+              For help with our SMS service or to place an order, text HELP to any message from us or
+              contact us at +1 (203) 300-7233.
             </p>
           </section>
 
